@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@0;1&family=Zen+Kaku+Gothic+New:wght@400;700&display=swap');
+
+
+body {
+  background: #4B3B40;
+}
+
+h1, h2, h3 {
+  font-family: 'Lato', sans-serif;
+}
+
+h2 {
+  display: inline-block;
+
+}
+
+h1 {
+   background: -webkit-linear-gradient(rgb(148, 42, 42), #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+#profile-pic {
+  border-radius: 50%;
+}
+
+p {
+  font-family: 'Zen Kaku Gothic New', sans-serif;
+  line-height: 30px;
+  color: #4B3B40;
+  margin-bottom: 60px;
+}
+
+li {
+  font-size: 50px;
+  list-style: none;
+  display: inline-block;
+}
+
+ul {
+  padding: 0px;
+}
+
+i {
+  color: rgb(161, 74, 74);
+  padding: 0px 30px;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+a {
+  font-family: 'Lato', sans-serif;
+  text-decoration: none;
+  color: black;
+}
+
+#lighter-grey {
+  color: rgb(51, 47, 47);
+  background-color: rgb(187, 116, 23);
+  border-radius: 5px;
+  padding: 15px 20px;
+}
+
+.white-card {
+  background-color: rgb(190, 186, 186);
+  border-radius: 5px;
+  box-shadow: 10px 5px 4px rgba(179, 175, 175, 0.1);
+  margin: 80px;
+  padding: 80px;
+  text-align: center;
+}
