@@ -15,7 +15,7 @@ h2 {
 }
 
 .container {
-  margin: 0px auto;
+  margin: 0 auto;
 }
 
 h1 {
@@ -71,7 +71,7 @@ a {
   background-color: rgb(190, 186, 186);
   border-radius: 5px;
   box-shadow: 10px 5px 4px rgba(179, 175, 175, 0.1);
-  margin: 80px;
+  margin: 80px auto;
   padding: 80px;
   text-align: center;
 }
